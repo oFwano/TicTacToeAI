@@ -6,5 +6,11 @@ Tic-tac-toe is a solved game and under perfect play, the game should end in a dr
 To learn more about how Tic-tac-toe is solved visit:
 https://en.wikipedia.org/wiki/Tic-tac-toe
 
-![image]/TTTimg.png
+![image](/TTTimg.png)
 
+To run on local host:
+* Clone or download the repo
+* In the main folder with the server.js file - open command window
+* run "node server.js"
+* go to http://localhost:3000/
+* Select and option and press "New Game" to start playing!
