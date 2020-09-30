@@ -6,5 +6,5 @@ Tic-tac-toe is a solved game and under perfect play, the game should end in a dr
 To learn more about how Tic-tac-toe is solved visit:
 https://en.wikipedia.org/wiki/Tic-tac-toe
 
-/TTTai.png
+![image]/TTTimg.png
 
